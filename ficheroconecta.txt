@@ -1,2 +1,6 @@
 texto para fichero conectamodificado en git bash
+<<<<<<< HEAD
 otra modificacion en conecta
+=======
+Modificado en github.com
+>>>>>>> 3f50552f67f6e248aac490fd8b0e4950a90bc2be
