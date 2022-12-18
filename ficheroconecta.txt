@@ -1,1 +1,1 @@
-texto para fichero conecta
+texto para fichero conectamodificado en git bash
